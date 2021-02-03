@@ -1,0 +1,144 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+.navigation{
+    font-size: 0;
+}
+.navigation li{
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    padding: 30px;
+    margin-left: 25px;
+    margin-right: 70px;
+    margin-bottom: 30px;
+    width: 300px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+div{
+    min-height: 50px;
+}
+div + div{
+    min-height: 50px;
+}
+div + div + div{
+    min-height: 50px;
+}
+div + div + div + div{
+    min-height: 50px;
+}
+.parent{
+    font-size: 0;
+}
+.parent-block{
+    font-size: 0;
+}
+.width33{
+    width: 33%;
+}
+.width50{
+    width: 50%;
+}
+.width66{
+    width: 66%;
+}
+.inline-block{
+    display: inline-block;
+    font-size: 14px;
+}
+.inline-block1{
+    background-color: #e009;
+}
+.inline-block2{
+    background-color: #a009;
+}
+.inline-block3{
+    background-color: #7009;
+}
+.inline-block4{
+    background-color: #0a09;
+}
+.inline-block6{
+    background-color: #0709;
+}
+.inline-block9{
+    background-color: #70f9;
+}
+.inline-block10{
+    background-color: #50f9;
+}
+.inline-block11{
+    background-color: #30f9;
+}
+.inline-block12{
+    background-color: #90f9;
+}
+.inline-block13{
+    background-color: #60f9;
+}
+.inline-block14{
+    background-color: #a029;
+}
+.inline-block15{
+    background-color: #50f9;
+}
+.inline-block16{
+    background-color: #a049;
+}
+.inline-block17{
+    background-color: #57f9;
+}
+.inline-block18{
+    background-color: #a729;
+}
+.inline-block19{
+    background-color: #7049;
+}
