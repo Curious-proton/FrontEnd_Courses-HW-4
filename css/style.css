@@ -60,6 +60,10 @@ table {
     width: 300px;
     text-align: center;
 }
+a:hover{
+	background-color: #0f06;
+	color: #f007
+}
 a{
     text-decoration: none;
 }
