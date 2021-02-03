@@ -75,6 +75,86 @@ div + div + div{
 div + div + div + div{
     min-height: 50px;
 }
+.first_layer{
+	width: 33%;
+	height: 168px;
+}
+.second_layer_width_66{
+	width: 66%;
+	height: 168px;
+	float: left;
+}
+.second_layer_width_33{
+	width: 33%;
+	height: 168px;
+	float: left;
+}
+.third_layer_width_33{
+	width: 33%;
+	height: 162px;
+	float: left;
+}
+.third_layer_width_66{
+	width: 66%;
+	height: 162px;
+	float: left;
+}
+.first_block{
+	background-color: #e009;
+	float: left;
+}
+.second_block{
+	background-color: #a009;
+	float: left;
+}
+.third_block{
+	background-color: #7009;
+	float: left;
+}
+.fourth_block{
+	background-color: #0a09;
+	float: left;
+}
+.fifth_block{
+	background-color: #0a09;
+	float: left;
+}
+.sixth_block{
+	background-color: #0709;
+	float: left;
+	height: 56px;
+}
+.seventh_block{
+	background-color: #0709;
+	float: left;
+	height: 56px;
+}
+.eigth_block{
+	background-color: #0709;
+	float: left;
+	height: 56px;
+}
+.ninth_block{
+	background-color: #70f9;
+	float: left;
+}
+.tenth_block{
+	background-color: #50f9;
+	height: 54px;
+}
+.eleventh_block{
+	background-color: #30f9;
+	float: left;
+	height: 106px;
+}
+.twelfth_block{
+	background-color: #90f9;
+	height: 53px;
+}
+.thirteenth_block{
+	background-color: #60f9;
+	height: 53px;
+}
 .parent{
     font-size: 0;
 }
