@@ -63,18 +63,6 @@ table {
 a{
     text-decoration: none;
 }
-div{
-    min-height: 50px;
-}
-div + div{
-    min-height: 50px;
-}
-div + div + div{
-    min-height: 50px;
-}
-div + div + div + div{
-    min-height: 50px;
-}
 .first_layer{
 	width: 33%;
 	height: 168px;
@@ -204,8 +192,8 @@ div + div + div + div{
 }
 .eighteenth_block{
 	background-color: #a729;
-	height: 103px;
 	float: left;
+	height: 103;
 }
 .ninteenth_block{
 	background-color: #7049;
