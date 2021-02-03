@@ -196,8 +196,8 @@ a{
 }
 .eighteenth_block{
 	background-color: #a729;
-	float: right;
-	height: 103;
+	float: left;
+	height: 103px;
 }
 .ninteenth_block{
 	background-color: #7049;
