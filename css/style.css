@@ -68,7 +68,6 @@ a{
     text-decoration: none;
 }
 .first_layer{
-	width: 33%;
 	height: 168px;
 }
 .second_layer_width_66{
@@ -269,4 +268,9 @@ a{
 }
 .inline-block19{
     background-color: #7049;
+}
+.clearfix::after {
+	content: "";
+	display: block;
+	clear: both;
 }
