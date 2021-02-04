@@ -70,6 +70,9 @@ a{
 .first_layer{
 	height: 168px;
 }
+.second_layer{
+	height: 168px;
+}
 .second_layer_width_66{
 	width: 66%;
 	height: 168px;
@@ -139,17 +142,14 @@ a{
 }
 .sixth_block{
 	background-color: #0709;
-	float: left;
 	height: 56px;
 }
 .seventh_block{
 	background-color: #0709;
-	float: left;
 	height: 56px;
 }
 .eigth_block{
 	background-color: #0709;
-	float: left;
 	height: 56px;
 }
 .ninth_block{
